@@ -1,6 +1,3 @@
-### AP1 - Ass 4:
-**IMPORTANT NOTE:** I recieved the permmision from the course instructors to submit assignment 4 **alone**.
-
 # KNN classifier server
 In this assignment, I took the classifier server and the client and added a commands based interaction between them using the **Command** design pattern. The interaction itself is done through a command menu which is prompted to the user on the client side.
 
